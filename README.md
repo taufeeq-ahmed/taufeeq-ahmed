@@ -13,7 +13,7 @@ Making the world a better place one software at a time.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=taufeeq-ahmed&theme=merko&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=taufeeq-ahmed&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Some Famous guy said =>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
