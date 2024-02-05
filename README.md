@@ -2,8 +2,9 @@
 <h1 text-align="center">Taufeeq Ahmed</h1>
 <p text-align="center">Developer/Programmer</p>
 Passionately building simple solutions for real-world problems of the world.</br>
-Making the world a better place one software at a time.</br></br>
+Making the world a better place one software at a time.
 
+---
 [![](https://visitcount.itsvg.in/api?id=taufeeq-ahmed&icon=0&color=3)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
