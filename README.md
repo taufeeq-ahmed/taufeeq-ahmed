@@ -4,6 +4,8 @@
 Passionately building simple solutions for real-world problems of the world.</br>
 Making the world a better place one software at a time.
 
+---
+[![](https://visitcount.itsvg.in/api?id=taufeeq-ahmed&icon=0&color=3)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/taufeeq.imjst.ad) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/taufeeq-ahmed-imjst) 
@@ -17,6 +19,5 @@ Making the world a better place one software at a time.
 ### ✍️ Some Famous guy said =>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=taufeeq-ahmed&icon=0&color=3)](https://visitcount.itsvg.in)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
