@@ -1,5 +1,6 @@
-# 💫 About Me:
-Passionately building simple solutions for real-world problems <br>of the world.<br><br>Making the world a better place one software at a time.<br>
+<h1 text-align="center">Taufeeq Ahmed</h1>
+<p text-align="center">Developer/Programmer</p>
+Passionately building simple solutions for real-world problems of the world.Making the world a better place one software at a time.
 
 
 ## 🌐 Socials:
