@@ -4,6 +4,8 @@
 Passionately building simple solutions for real-world problems of the world.</br>
 Making the world a better place one software at a time.
 
+currently working on [notion-clone](https://github.com/taufeeq-ahmed/notion-clone)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=taufeeq-ahmed&icon=0&color=3)](https://visitcount.itsvg.in)
 
