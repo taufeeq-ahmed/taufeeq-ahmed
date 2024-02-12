@@ -1,10 +1,10 @@
 
-<h1 text-align="center">Taufeeq Ahmed</h1> [Portfolio](https://maestro-taufeeq-ahmed.vercel.app/)
+<h1 text-align="center">Taufeeq Ahmed</h1> 
 <p text-align="center">Developer/Programmer</p>
 Passionately building simple solutions for real-world problems of the world.</br>
 Making the world a better place one software at a time.
 
-currently working on [notion-clone](https://github.com/taufeeq-ahmed/notion-clone)
+[Check out my Portfolio](https://maestro-taufeeq-ahmed.vercel.app/)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=taufeeq-ahmed&icon=0&color=3)](https://visitcount.itsvg.in)
