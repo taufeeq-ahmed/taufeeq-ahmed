@@ -1,5 +1,5 @@
 
-# 🙋🏻‍♂️ Taufeeq Ahmed
+# Taufeeq Ahmed
 ### Developer/Programmer
 
 Passionately building simple solutions for real-world problems of the world.</br>
